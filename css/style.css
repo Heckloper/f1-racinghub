@@ -1,0 +1,59 @@
+body {
+  background: #fdfdfd;        /* metallic ghost white */
+  color: #111;
+  font-family: Arial, sans-serif;
+  text-align: center;         /* everything centered */
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: red;
+  font-size: 32px;
+  margin: 20px 0;
+}
+
+h2 {
+  color: darkred;
+  font-size: 26px;
+  margin: 18px 0;
+}
+
+h3 {
+  color: darkred;
+  font-size: 22px;
+  margin: 15px 0;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 10px auto;
+  max-width: 700px;           /* keeps text from stretching too wide */
+}
+
+ul, ol {
+  display: inline-block;      /* keeps lists centered */
+  text-align: left;           /* but align list text left for readability */
+  margin: 15px auto;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+img {
+  display: block;
+  margin: 15px auto;
+  max-width: 80%;
+  height: auto;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #aaa;
+  width: 60%;
+  margin: 25px auto;
+}
