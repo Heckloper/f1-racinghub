@@ -21,4 +21,4 @@ This project serves as a root prototype for exploring web layout, design, and in
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone git@github.com:Heckloper/f1-racinghub.git
+git clone https://github.com/Heckloper/f1-racinghub.git
