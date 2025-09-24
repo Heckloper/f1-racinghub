@@ -4,6 +4,9 @@
 
 This project serves as a root prototype for exploring web layout, design, and interactive features tailored to F1 fans. Ideal for experimenting with HTML, CSS, and basic PHP features.
 
+![F1 RacingHub](images/f1-hero.png)
+
+
 ## Features
 - Static pages for **Home, About, Contact, Gallery, and Services**
 - Responsive layout for desktop and mobile
